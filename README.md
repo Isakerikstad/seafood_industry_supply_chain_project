@@ -19,10 +19,6 @@ This repository contains data analysis and visualization projects focusing on th
 - **fishing_vessel_AIS_2021_2024**: Automatic Identification System (AIS) data for fishing vessels (2021-2024). Taken from https://globalfishingwatch.org/data-download/datasets/public-fishing-effort. This was way to big a file to store here.
 - **sjømatråd_eksport_månedlig**: Monthly export data from the Norwegian Seafood Council
 
-### Visualizations
-- **norwegian_seafood_exports_2007_2013.png**: Visualization of Norwegian seafood exports (2007-2013)
-- **fishing_Activity_seasonality.png**: Visualization of seasonal patterns in fishing activities
-
 ## Key Insights
 The analyses in this repository explore several critical aspects of Norway's seafood industry:
 
