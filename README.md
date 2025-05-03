@@ -24,7 +24,7 @@ The analyses in this repository explore several critical aspects of Norway's sea
 2. **Market Diversification**: Examination of export destinations and market trends
 3. **Seasonal Fishing Activity**: Analysis of fishing vessel movements and seasonal patterns
 4. **Supply Chain Dynamics**: Mapping the flow of seafood products from harvest to international markets
-5. **Using ML**: Sort of redicolous experiement using so few data points, but the premise of ML experiement was at least gotten from https://fisheries-2023.sites.olt.ubc.ca/files/2024/09/2024-01-Working-Paper-Price-Prediction.pdf, seeing iXGBoost proved best on the data we had.
+5. **Using ML**: Sort of ridiculous experiment using so few data points, but the premise of ML experiement was at least inspired from https://fisheries-2023.sites.olt.ubc.ca/files/2024/09/2024-01-Working-Paper-Price-Prediction.pdf "Advanced Machine Learning for Fish Price", and seeing if XGBoost also proved best on the data we had.
 
 ## Acknowledgements
 Data sources include the United Nations Comtrade Database, Statistics Norway (SSB), the Norwegian Seafood Council, and AIS vessel tracking systems.
