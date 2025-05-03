@@ -1,5 +1,3 @@
-I'll create the text for a README file for your seafood supply chain project. This will provide an overview of your project, its purpose, data sources, and how to navigate the repository.
-
 # Norwegian Seafood Supply Chain Analysis
 
 ## Overview
