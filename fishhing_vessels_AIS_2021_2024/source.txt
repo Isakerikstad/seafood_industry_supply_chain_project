@@ -1,0 +1,1 @@
+The dataset was too large to keep in the repository, but it can be found for free at https://globalfishingwatch.org/data-download/ after you create a user. Choose the dataset AIS Apparent Fishing Effort and download the files: fleet-monthly-csvs-10-v3-2021/2022/2023/2024.zip
